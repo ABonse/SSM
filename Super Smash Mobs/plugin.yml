@@ -1,0 +1,16 @@
+name: SuperSmashMobs
+description: My first minigame!
+version: 1.0
+main: me.bonse.supersmashmobs.Main
+depend: [LibsDisguises]
+commands:
+  kit:
+    description: Select a kit!
+  reveal:
+    description: Reveals all entities!
+  getlocation:
+    description: Gives the player his Location!
+  heal:
+    description: Fully heals the player!
+  remove:
+    description: Removes all items from inventory!
